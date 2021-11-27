@@ -1,7 +1,7 @@
 {
   "name": "interactive-pricing-component",
   "version": "1.0.0",
-  "description": "![Design preview for the Interactive pricing component coding challenge](./design/desktop-preview.jpg)",
+  "description": "A simple package for the pricing section of a website.",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",

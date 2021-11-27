@@ -1,5 +1,5 @@
 import React from 'react';
-import PriceBox from './lib/components/PriceBox/PriceBoxComponent.js';
+import PriceBox from './src/components/PriceBox/PriceBoxComponent.js';
 
 const App = () => {
    return(
